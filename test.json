@@ -60,55 +60,55 @@
                             "name": "Creative",
                             "children": [{
                                     "name": "Creative Strategy",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Creative Concept",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Branding",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Color Theory",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Typography",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "UI Design",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Iconography",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Design Thinking",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Design System",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Atomic Design",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "iOS",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Android",
-                                    "size": 15
+                                    "size": 6
                                 },
                                 {
                                     "name": "Interaction Design",
-                                    "size": 15
+                                    "size": 6
                                 }
                             ]
                         },
