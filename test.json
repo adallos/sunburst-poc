@@ -1,0 +1,356 @@
+{
+    "name": "Endava DUs",
+    "children": [{
+            "name": "Caracas",
+            "children": [{
+                    "name": "Development",
+                    "children": [{
+                            "name": "Front End",
+                            "size": 30
+                        },
+                        {
+                            "name": "Mobile",
+                            "size": 15
+                        },
+                        {
+                            "name": "Creative",
+                            "size": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Applications Management",
+                    "children": [{
+                            "name": "Angular 2",
+                            "size": 40
+                        },
+                        {
+                            "name": "Java",
+                            "size": 50
+                        },
+                        {
+                            "name": "Kotlin",
+                            "size": 15
+                        }
+                    ]
+                },
+                {
+                    "name": "Testing",
+                    "children": [{
+                            "name": "Cucumber",
+                            "size": 65
+                        },
+                        {
+                            "name": "Manual Testing",
+                            "size": 26
+                        },
+                        {
+                            "name": "Automation",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bogota",
+            "children": [{
+                    "name": "Development",
+                    "children": [{
+                            "name": "Creative",
+                            "children": [{
+                                    "name": "Creative Strategy",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Creative Concept",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Branding",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Color Theory",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Typography",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "UI Design",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Iconography",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Design Thinking",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Design System",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Atomic Design",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "iOS",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Android",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Interaction Design",
+                                    "size": 15
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front End",
+                            "children": [{
+                                    "name": "Javascript",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "CSS",
+                                    "size": 16
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Back End",
+                            "children": [{
+                                    "name": ".NET",
+                                    "size": 15
+                                },
+                                {
+                                    "name": "Oracle",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Mongo DB",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "Jiraffe",
+                                    "size": 16
+                                },
+                                {
+                                    "name": "C#",
+                                    "size": 16
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mobile",
+                            "size": 10
+                        },
+                        {
+                            "name": "Creative",
+                            "size": 9
+                        }
+                    ]
+                },
+                {
+                    "name": "Testing",
+                    "children": [{
+                            "name": "HTML",
+                            "size": 20
+                        },
+                        {
+                            "name": "Record Tools",
+                            "size": 4
+                        },
+                        {
+                            "name": "Java",
+                            "size": 9
+                        },
+                        {
+                            "name": "Maven",
+                            "size": 15
+                        },
+                        {
+                            "name": "API Testing",
+                            "size": 17
+                        },
+                        {
+                            "name": "BDD",
+                            "size": 6
+                        },
+                        {
+                            "name": "Design Patterns",
+                            "size": 40
+                        },
+                        {
+                            "name": "Rest Assured",
+                            "size": 78
+                        },
+                        {
+                            "name": "Selenium",
+                            "size": 96
+                        },
+                        {
+                            "name": "Cucumber",
+                            "size": 5
+                        },
+                        {
+                            "name": "JBehave",
+                            "size": 9
+                        },
+                        {
+                            "name": "Gradle",
+                            "size": 9
+                        },
+                        {
+                            "name": "Xpath",
+                            "size": 9
+                        },
+                        {
+                            "name": "Javascript",
+                            "size": 6
+                        },
+                        {
+                            "name": "Serenity",
+                            "size": 2
+                        },
+                        {
+                            "name": "Protractor",
+                            "size": 12
+                        }
+                    ]
+                },
+                {
+                    "name": "Applications Management",
+                    "children": [{
+                            "name": "Applications Management",
+                            "children": [{
+                                    "name": "Scripting",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Configuration Mgmt",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "SQL DB",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "NoSQL DB",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Monitoring",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Business Continuity",
+                                    "size": 12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "DevOps",
+                            "children": [{
+                                    "name": "Scripting",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Virtualization",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Infrastructure as Code",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Application Servers",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "SQL DB",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "NoSQL DB",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "CI/CD Tools",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Logging",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Containers Orchestration",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Monitoring",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "networking",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Security",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Load Balancers",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Cloud Service Models",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Iaas",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "PaaS",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "SaaS",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "SDN",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "CDN",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Storage",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Artifact Repos",
+                                    "size": 12
+                                },
+                                {
+                                    "name": "Packaging",
+                                    "size": 12
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
